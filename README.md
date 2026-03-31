@@ -50,6 +50,8 @@ Smart-Load-Optimizer/
 ├── requirements.txt        # Dependencies
 └── README.md
 
+---
+
 ## ⚙️ How It Works
 
 1. Load historical energy consumption data  
